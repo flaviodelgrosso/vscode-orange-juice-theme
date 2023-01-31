@@ -355,7 +355,7 @@
       "name": "Inserted",
       "scope": ["markup.inserted"],
       "settings": {
-        "foreground": "#bae67e"
+        "foreground": "#33bba7"
       }
     },
     {
@@ -571,7 +571,7 @@
         "punctuation.definition.heading.markdown"
       ],
       "settings": {
-        "foreground": "#bae67e"
+        "foreground": "#33bba7"
       }
     },
     {
