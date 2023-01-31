@@ -2,7 +2,7 @@
   "name": "orange-juice-theme",
   "displayName": "Orange Juice Theme",
   "description": "Visual Studio Code dark theme with a bit of juice!",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "license": "MIT",
   "publisher": "flaviodelgrosso",
   "icon": "assets/logo.png",
