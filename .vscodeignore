@@ -2,3 +2,7 @@
 .vscode-test/**
 .gitignore
 vsc-extension-quickstart.md
+!assets/logo.png
+node_modules
+yarn.lock
+test

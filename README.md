@@ -4,6 +4,6 @@
 
 [GitHub Repository](https://github.com/flaviodelgrosso/vscode-orange-juice-theme)
 
-![Screen Shot](./images/screenshot.png)
+![Screen Shot](./assets/screenshot.png)
 
 **Enjoy!**

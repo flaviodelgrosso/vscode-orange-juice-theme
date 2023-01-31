@@ -33,7 +33,7 @@
 
 		</Properties>
 
-		<Icon>extension/images/logo.png</Icon>
+		<Icon>extension/assets/logo.png</Icon>
 	</Metadata>
 	<Installation>
 		<InstallationTarget Id="Microsoft.VisualStudio.Code" />
@@ -46,7 +46,7 @@
 			Addressable="true" />
 		<Asset Type="Microsoft.VisualStudio.Services.Content.Changelog"
 			Path="extension/CHANGELOG.md" Addressable="true" />
-		<Asset Type="Microsoft.VisualStudio.Services.Icons.Default" Path="extension/images/logo.png"
+		<Asset Type="Microsoft.VisualStudio.Services.Icons.Default" Path="extension/assets/logo.png"
 			Addressable="true" />
 	</Assets>
 </PackageManifest>
