@@ -1,0 +1,44 @@
+{
+  "name": "orange-juice-theme",
+  "displayName": "Orange Juice Theme",
+  "description": "Visual Studio Code dark theme with a bit of juice!",
+  "version": "0.0.1",
+  "license": "MIT",
+  "publisher": "flaviodelgrosso",
+  "icon": "images/logo.png",
+  "homepage": "https://www.flaviodelgrosso.com/",
+  "repository": {
+    "url": "https://github.com/flaviodelgrosso/vscode-orange-juice-theme.git"
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish",
+    "patch": "vsce publish patch",
+    "minor": "vsce publish minor",
+    "major": "vsce publish major",
+    "unpublish": "vsce unpublish flaviodelgrosso.orange-juice-theme"
+  },
+  "keywords": [
+    "theme",
+    "vscode theme"
+  ],
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "galleryBanner": {
+    "color": "#EE8241",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Orange Juice Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OrangeJuice.json"
+      }
+    ]
+  }
+}
