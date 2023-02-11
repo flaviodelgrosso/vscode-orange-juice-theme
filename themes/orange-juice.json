@@ -57,6 +57,7 @@
     "tab.inactiveModifiedBorder": "#EE8241",
     "tab.unfocusedActiveModifiedBorder": "#EE8241",
     "tab.unfocusedInactiveModifiedBorder": "#EE8241",
+    "terminal.background": "#1b1b1b",
     "textLink.activeForeground": "#ebbb9c",
     "textLink.foreground": "#EE8241",
     "titleBar.activeBackground": "#222222",
